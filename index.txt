@@ -1,0 +1,161 @@
+Ifeoluwa Oluyomi - Lets bring your designs to reality.
+
+This is made by ifeoluwa oluyomi
+
+
+
+#---------- HEADER ----------#
+
+Home
+About
+Project
+Contact
+
+aria-label = open menu
+
+
+
+#---------- HERO ----------#
+
+alt = Ifeoluwa
+
+Ifeoluwa
+
+Ifeoluwa Oluyomi A Junior Front-End Developer.
+
+Download CV
+<ion-icon name="cloud-download-outline" aria-hidden="true"></ion-icon>
+
+“Great web design without functionality is like a sports car
+  with no engine.”
+
+
+#---------- ABOUT ----------#
+
+About Me
+Skillset
+Certificates
+Exhibition
+
+ABOUT TAB
+----------
+alt = about banner
+
+The world of codes and design bring websites to life.
+
+“Your website is the center of your digital ecosystem,
+like a brick and mortar location, the experience matters
+once a customer enters, just as much as the perception
+they have of you before they walk through the door.”
+
+Name
+Ifeoluwa Oluyomi
+
+Phone Number
+0691250613
+
+Email Address
+oluyomiifeoluwa6@gmail.com
+
+Social Network
+
+title = Facebook
+Fb.
+
+title = Linkedin
+Linkedin
+
+SKILLSET TAB
+---------
+Knock the Basics Out of the Park (HTML/CSS, JavaScript)
+
+“Your website is the center of your digital ecosystem,
+like a brick and mortar location, the experience matters
+once a customer enters, just as much as the perception
+they have of you before they walk through the door.”
+
+HTML/CSS
+75%
+
+JAVASCRIPT
+65%
+
+alt = skill banner
+
+Certificates TAB
+----------
+I am excited about sharing my skills to help IT-tech companies
+by giving identity to their websites.
+
+alt = certificate
+
+EXHIBITION TAB
+--------------
+
+alt = image
+<ion-icon name="image-outline" aria-hidden="true"></ion-icon>
+
+alt = video
+<ion-icon name="logo-youtube"></ion-icon>
+
+alt = music
+<ion-icon name="logo-soundcloud"></ion-icon>
+
+
+
+#---------- CTA ----------#
+
+Let's Work Together On Your Next Project!
+
+Hire Me Now
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- PROJECTS ----------#
+
+alt = Project poster: Urban Gardening
+
+Project Details
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Front-End
+
+Urban Gardening
+
+Travel Gallery Slider
+
+Event Planner
+
+
+
+#---------- CONTACT ----------#
+
+Get In Touch
+
+placeholder = Full name
+placeholder = Email address
+placeholder = Phone
+placeholder = Enter massges
+
+alt = contact icon
+
+0691250613
++276424660614
+
+Van dalsen Str, West Park, Pretoria South Africa.
+
+oluyomiifeoluwa6@gmail.com
+oluyomiifeoluwa6@gmail.com
+
+
+
+#---------- FOOTER ----------#
+
+Coded by Ifeoluwa Oluyomi - 2024
+
+Back To Top
+
+<ion-icon name="arrow-up" aria-hidden="true"></ion-icon>
